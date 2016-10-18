@@ -1,0 +1,16 @@
+.calc_read_time_shower_post{
+  text-align: right;
+  margin-top: 0;
+}
+.calc_read_time_shower_post_span{
+  background-color: #525252;
+  color: #fff;
+  padding: 2px 10px;
+  display: inline-block;
+}
+.calc_read_time_shower_title_span{
+  display: block;
+  font-size: 15px;
+  background: inherit;
+  color: inherit;
+}
